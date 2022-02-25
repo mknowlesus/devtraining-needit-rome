@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Documentum">fa98d60e87790110410a8517cebb3570</catalog_item>
+        <catalog_variable>IO:f8a32a0687b90110410a8517cebb35be</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-22 12:39:55</sys_created_on>
+        <sys_id>9f84628687b90110410a8517cebb357b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>current_file_location_data_pull</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9f84628687b90110410a8517cebb357b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-22 12:39:55</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show data pull location">5474aa4687b90110410a8517cebb355c</ui_policy>
+        <variable>current_file_location_data_pull</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
